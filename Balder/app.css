@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+.anime-recomandation img, .anime-recomandation h3 {
+ display: inline;
+}
+
+.anime-recomandation img {
+    transform: rotate(-37deg)
+}
+.about-me 
+
+.banner-content h1{
+  font-size: larger;
+  color: blueviolet;
+}
+
+.qoute p {
+  color: deeppink;
+  font-size: larger;
+}
